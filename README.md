@@ -20,6 +20,7 @@
 ### The CNN architecture consists of the following layers:
 ![CNN_architecture2](https://github.com/user-attachments/assets/587f063c-dab0-4f63-9575-25c0539b99c1)
 
+<p>hello world</p>
 
 
 ## Thanks For reading This
